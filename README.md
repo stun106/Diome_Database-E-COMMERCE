@@ -1,5 +1,5 @@
 # Diome_Database-E-COMMERCE
-# Desafio 1
+<h2>Desafio 1</h2>
  Estudo do projeto Conceitual de um cenário E-COMMERCE do desafio criado pela Dio.me - Bootcamp DataBase
 
    No contexto em geral a empresa vai disponibilizar que clientes tanto Juridicos quanto Fisicos realizem seus pedidos,
@@ -7,7 +7,7 @@ desses pedidos escolhem uma forma de pagamento onde o Financeiro analisa o pagam
    Os produtos são entregues pelos seus fornecedores, onde são registrados no estoque, e tambem é onde separam os pedidos
 para serem entregues.
 
-#Desafio 2 
+<h2>Desafio 2</h2> 
  Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica, clientes levam veículos
  à oficina mecânica para serem consertados ou para passarem por revisões periódicas. 
  
